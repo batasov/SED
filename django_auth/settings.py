@@ -127,7 +127,7 @@ REST_FRAMEWORK = {
 # SMTP сервер
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'edmsmtuci@gmail.com'
+EMAIL_HOST_USER = 'edmsmirea@gmail.com'
 EMAIL_HOST_PASSWORD = os.environ.get("EDMS_MAIL_PASSWORD")
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER

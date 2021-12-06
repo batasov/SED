@@ -12,7 +12,7 @@ ALLOWED_HOSTS = [
     'localhost', 
     '127.0.0.1',
     'ftp://91.238.69.56'
-    #  'edms-mtuci.s3.amazonaws.com'
+   
 ]
 
 from corsheaders.defaults import default_methods

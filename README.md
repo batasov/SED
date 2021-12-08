@@ -52,7 +52,9 @@
 
 
 Запрос на регистрацию<br>
-![image](https://user-images.githubusercontent.com/63637182/144870096-3bfa5025-84a1-4dca-8c23-70d02b5a6e80.png)
+![144870096-3bfa5025-84a1-4dca-8c23-70d02b5a6e80](https://user-images.githubusercontent.com/63637182/145162280-95eda5ab-0e8a-4230-a063-0aa89b9af152.png)
+
+
 
 Вкладка уведомления<br>
 ![image](https://user-images.githubusercontent.com/63637182/144870530-d2a1a294-e536-441b-9e81-5ffc7a891ebe.png)

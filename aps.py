@@ -32,10 +32,10 @@ def job():
             for i, u in enumerate(users):
                 print(u.email)
                 send_mail(
-                    'Уведомление от СЭД МТУСИ',
+                    'Уведомление от СЭД МИРЭА',
                     'Уведомляем, что пользователь ' + full_name + ' (' + n.user.email +
                     ') просрочил срок подписи документа "' + n.doc.title + '".',
-                    'edmsmtuci@gmail.com',
+                    'edmsьшкуф@gmail.com',
                     [u.email, ],
                     fail_silently=False,
                 )

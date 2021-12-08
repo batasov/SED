@@ -67,6 +67,7 @@
 Вкладка администрирование<br>
 ![image](https://user-images.githubusercontent.com/63637182/144870830-d67d235a-cb52-4120-b7d8-634b7aba74c1.png)
 
-
+Вкладка подписание документа<br>
+![image](https://user-images.githubusercontent.com/63637182/145166177-5d295029-c5ec-4e5d-9ee7-bdfc14fd5c2c.png)
 
 

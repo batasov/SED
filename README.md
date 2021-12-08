@@ -48,7 +48,8 @@
 ### Интерфейс, письма
 
 Запрос на подпись документа<br>
-![image](https://user-images.githubusercontent.com/63637182/144869938-b5a233d4-2e58-4b9a-ad20-2796052e1958.png)
+![144869938-b5a233d4-2e58-4b9a-ad20-2796052e1958](https://user-images.githubusercontent.com/63637182/145160970-bb942c48-3b66-4d97-8012-044642018568.png)
+
 
 Запрос на регистрацию<br>
 ![image](https://user-images.githubusercontent.com/63637182/144870096-3bfa5025-84a1-4dca-8c23-70d02b5a6e80.png)
